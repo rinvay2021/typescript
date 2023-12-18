@@ -1,0 +1,5 @@
+# Custom ignore
+doc_build
+
+# Dependency directories
+node_modules/
