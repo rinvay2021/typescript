@@ -1,0 +1,47 @@
+[
+    {
+        "type": "file",
+        "name": "1.基础类型",
+        "label": "基础类型"
+    },
+    {
+        "type": "file",
+        "name": "2.数组与元组",
+        "label": "数组与元组"
+    },
+    {
+        "type": "file",
+        "name": "3.函数",
+        "label": "函数"
+    },
+    {
+        "type": "file",
+        "name": "4.对象",
+        "label": "对象"
+    },
+    {
+        "type": "file",
+        "name": "5.接口",
+        "label": "接口"
+    },
+    {
+        "type": "file",
+        "name": "6.类",
+        "label": "类"
+    },
+    {
+        "type": "file",
+        "name": "7.泛型",
+        "label": "泛型"
+    },
+    {
+        "type": "file",
+        "name": "8.枚举",
+        "label": "枚举"
+    },
+    {
+        "type": "file",
+        "name": "9.工具类型",
+        "label": "工具类型"
+    }
+]
