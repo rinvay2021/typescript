@@ -3,6 +3,7 @@ import { defineConfig } from 'rspress/config'
 export default defineConfig({
     root: 'docs',
     title: 'ts',
+    base: '/typescript',
     icon: 'https://cdn-icons-png.flaticon.com/512/5968/5968421.png',
     logo: {
         dark: 'https://www.endpointdev.com/blog/2021/02/intro-to-typescript/ts-lettermark-white.svg',
